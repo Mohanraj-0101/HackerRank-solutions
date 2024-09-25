@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class static_initializer_block {
 
-    //The below code is enough to complete the problem 
+//The below code is enough to complete the problem 
     public static int B;
     public static int H;
     public static boolean flag;
@@ -19,7 +19,8 @@ public class static_initializer_block {
             flag = true;
         }
     }
-
+//The above code is enough to complete the problem 
+    
     public static void main(String[] args) {
         if (flag) {
             int area = B * H;
